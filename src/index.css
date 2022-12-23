@@ -8,4 +8,7 @@ body {
   padding: 0px;
   margin: 0px;
   box-sizing: border-box;
+  background: url('./assets/manufest//pattern_hawaii.png');
+  background-size: 34% auto;
+  background-color: rgb(255, 254, 201);
 }
